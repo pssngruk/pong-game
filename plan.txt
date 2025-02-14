@@ -8,8 +8,8 @@ Scene (scoreboard / middle line )
 ball (size, position, angular deflection)
 
 
-1. Create the screen
-2. Create paddle
+1. Create the screen ^
+2. Create paddle ^
 3. Create AI paddle
 4. Create ball and make it move
 5. Detect colision with wall and bounce
