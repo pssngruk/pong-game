@@ -1,0 +1,18 @@
+Pong game outline
+-------------------------------------
+Components:
+
+Player Paddle (size / look / key controls)
+Computer Paddle from Player Paddle (size / look / motion programming
+Scene (scoreboard / middle line )
+ball (size, position, angular deflection)
+
+
+1. Create the screen
+2. Create paddle
+3. Create AI paddle
+4. Create ball and make it move
+5. Detect colision with wall and bounce
+6. Detect colision with paddle
+7. Detect when paddle misses
+8. Keep Score
